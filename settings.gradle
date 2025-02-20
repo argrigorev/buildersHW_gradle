@@ -1,0 +1,6 @@
+rootProject.name = 'builders_hwGradle'
+include 'db'
+include 'api'
+include 'service'
+
+
