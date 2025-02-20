@@ -41,4 +41,8 @@ bin/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
+.DS_Storegradle/wrapper
+build.gradle
+gradlew
+gradlew.bat
+settings.gradle
